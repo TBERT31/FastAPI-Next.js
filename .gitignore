@@ -22,3 +22,6 @@ Thumbs.db
 
 #db sqlite
 workout_app.db
+
+#Node
+node_modules
