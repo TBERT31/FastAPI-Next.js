@@ -1,1 +1,21 @@
-.venv
+# Environment files
+.venv/
+env/
+venv/
+.env
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Temporary files
+*.log
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
